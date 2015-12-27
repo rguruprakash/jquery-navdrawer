@@ -1,5 +1,10 @@
 # jquery-navdrawer
 Jquery Navigation-drawer plugin
+
+Demo - http://codepen.io/guruprakash/pen/rxMKbW
+
+navdrawer.js - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/scripts/navdrawer.js
+
 <h2>Usage</h2>
 Initilize the navigation drawer 
 ```js
