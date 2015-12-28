@@ -26,6 +26,10 @@
     this.backdrop();
   }
 
+  NavDrawer.prototype.toggle = function() {
+    this.isShown? this.hide() : this.show();
+  }
+
   NavDrawer.prototype.backdrop = function() {
     if (this.isShown && this.options.backdrop) {
       this.$backdrop = $(document.createElement('div'))
