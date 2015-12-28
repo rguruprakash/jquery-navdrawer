@@ -27,3 +27,7 @@ $("#mynavdrawer").navdrawer('show')
 ```js
 $("#mynavdrawer").navdrawer('hide')
 ```
+*.navdrawer('toggle')* - Manually toggle the navigation drawer status(open/close)
+```js
+$("#mynavdrawer").navdrawer('toggle')
+```
