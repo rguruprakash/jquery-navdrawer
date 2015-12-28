@@ -3,18 +3,22 @@ Jquery Navigation-drawer plugin
 
 Demo - http://codepen.io/guruprakash/pen/rxMKbW
 
-navdrawer.js - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/scripts/navdrawer.js
+## Plugin files
+- navdrawer.js - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/scripts/navdrawer.js
+- navdrawer.css - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/styles/navdrawer.css
 
-<h2>Usage</h2>
+## Usage
 Initilize the navigation drawer 
 ```js
 $("#mynavdrawer").navdrawer(options)
 ```
-<h2>Options</h2>
+
+## Options
 | Name | type | default | description |
 |------|------|---------|-------------|
 |backdrop|boolean|true| Includes a backdrop element when navigation drawer is open|
-<h2>Methods</h2>
+
+##Methods
 *.navdrawer('show')* - Manually opens the navigation drawer
 ```js
 $("#mynavdrawer").navdrawer('show')
