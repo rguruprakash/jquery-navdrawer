@@ -1,6 +1,12 @@
 # jquery-navdrawer
 Jquery Navigation-drawer plugin
 
+Demo - http://codepen.io/guruprakash/pen/rxMKbW
+
+## Plugin files
+- navdrawer.js - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/scripts/navdrawer.js
+- navdrawer.css - https://github.com/rguruprakash/jquery-navdrawer/blob/master/app/styles/navdrawer.css
+
 ## Usage
 Initilize the navigation drawer 
 ```js
