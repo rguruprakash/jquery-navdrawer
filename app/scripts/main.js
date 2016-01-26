@@ -1,11 +1,13 @@
-$(document).ready(function() {
-  $("#navdrawer").navdrawer();
-});
-
 function openDrawer() {
-    $("#navdrawer").navdrawer('show');
+  $('#navdrawer').navdrawer('show');
 }
 
 function closeDrawer() {
-  $("#navdrawer").navdrawer('hide');
+  $('#navdrawer').navdrawer('hide');
 }
+
+$(document).ready(function() {
+  $('#navdrawer').navdrawer();
+  $('#show').on('click', openDrawer);
+  $('#hide').on('click', closeDrawer);
+});
