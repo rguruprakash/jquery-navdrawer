@@ -1,6 +1,8 @@
 # jquery-navdrawer
 Jquery Navigation-drawer plugin
 
+[![Build Status](https://travis-ci.org/rguruprakash/jquery-navdrawer.svg?branch=master)](https://travis-ci.org/rguruprakash/jquery-navdrawer)
+
 Demo - http://codepen.io/guruprakash/pen/rxMKbW
 
 ## Plugin files
